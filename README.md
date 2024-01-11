@@ -31,6 +31,11 @@ A lista foi corretamente ajustada
 
 <img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Lista_Dags.png">
 
+As dags devem ser criadas dentro do container do docker.
+
+<img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Docker_Airflow.png">
+
+<img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/PrimeiraDag.png">
 
 
 
