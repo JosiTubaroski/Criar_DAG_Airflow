@@ -22,7 +22,10 @@ Procurar pela linha AIRFLOW_COR_LOAD_EXAMPLES: e substituir 'true' por 'false'.
 
 <img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Docker_Down.png">
 
+- Em seguida executar o comando Docker-compose up -d
 
+
+<img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Docker_UP.png">
 
 
 
