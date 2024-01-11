@@ -14,7 +14,12 @@ Para isso abrir o arquivo docker-compose.yaml que está salvo no pacote do airfl
 
 Procurar pela linha AIRFLOW_COR_LOAD_EXAMPLES: e substituir 'true' por 'false'.
 
-https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Suibstituir_Load_Example.png
+<img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Suibstituir_Load_Example.png">
+
+- Após a alteração é necessário reiniciar o Airflow
+- Para isso abrir o cmd e acessar o diretorio do airflow
+- Parar o docker
+
 
 
 
