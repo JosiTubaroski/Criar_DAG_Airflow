@@ -20,6 +20,8 @@ Procurar pela linha AIRFLOW_COR_LOAD_EXAMPLES: e substituir 'true' por 'false'.
 - Para isso abrir o cmd e acessar o diretorio do airflow
 - Parar o docker
 
+<img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Docker_Down.png">
+
 
 
 
