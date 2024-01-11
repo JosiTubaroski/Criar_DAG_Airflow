@@ -27,5 +27,10 @@ Procurar pela linha AIRFLOW_COR_LOAD_EXAMPLES: e substituir 'true' por 'false'.
 
 <img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Docker_UP.png">
 
+A lista foi corretamente ajustada
+
+<img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Lista_Dags.png">
+
+
 
 
