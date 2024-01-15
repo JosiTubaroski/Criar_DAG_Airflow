@@ -45,6 +45,16 @@ Código da primeira dag
 
 <img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Atualizar_Airflow.png">
 
+- A dag será apresentada, selecionar a dag para verificar a estrutura.
+
+<img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Apresentacao_Dag.png">
+
+- Verificar em modo Graph para observar a sequencia das atividades.
+
+<img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/sequencia_tasks.png">
+
+  
+
 
 
 
