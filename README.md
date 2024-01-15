@@ -53,9 +53,16 @@ Código da primeira dag
 
 <img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/sequencia_tasks.png">
 
--- Realizar a execução da Dag utilizando a opção "Trigger Dag"
+- Realizar a execução da Dag utilizando a opção "Trigger Dag"
 
 <img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Executar_Dag.png">
+
+- A borda da DAG apresenta a cor do status em que a atividade se encontra.
+
+Exemplo:
+
+<img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Status_Dag.png">
+
 
 
   
