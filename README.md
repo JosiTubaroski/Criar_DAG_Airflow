@@ -71,6 +71,9 @@ Exemplo:
 
 <img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Selecionar_Task_Execute.png">
 
+<img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Log_Execucao.png">
+
+
   
 
   
