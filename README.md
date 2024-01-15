@@ -37,5 +37,11 @@ As dags devem ser criadas dentro do container do docker.
 
 <img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/PrimeiraDag.png">
 
+Código da primeira dag
+
+<img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Primeira_Dag_Codigo.png">
+
+
+
 
 
