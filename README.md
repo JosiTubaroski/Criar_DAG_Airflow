@@ -66,6 +66,11 @@ Exemplo:
 - Apresentacao Grantt com resultado de execução
 
 <img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/Apresentacao_Grant_Exec.png">
+
+- Para verificar os logs das tasks, retornar para o modo grafico e selecionar a task, em seguida a opção log
+
+<img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Selecionar_Task_Execute.png">
+
   
 
   
