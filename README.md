@@ -53,6 +53,11 @@ Código da primeira dag
 
 <img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/sequencia_tasks.png">
 
+-- Realizar a execução da Dag utilizando a opção "Trigger Dag"
+
+<img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Executar_Dag.png">
+
+
   
 
 
