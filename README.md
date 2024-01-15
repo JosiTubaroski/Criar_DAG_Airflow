@@ -41,6 +41,10 @@ Código da primeira dag
 
 <img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Primeira_Dag_Codigo.png">
 
+- Após a criação da Dag, atualizar o airflow
+
+<img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Atualizar_Airflow.png">
+
 
 
 
