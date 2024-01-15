@@ -63,7 +63,12 @@ Exemplo:
 
 <img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/img/Status_Dag.png">
 
+- Apresentacao Grantt com resultado de execução
 
+<img src="https://github.com/JosiTubaroski/Criar_DAG_Airflow/blob/main/Apresentacao_Grant_Exec.png">
+  
+
+  
 
   
 
